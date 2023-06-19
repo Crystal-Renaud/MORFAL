@@ -1,0 +1,132 @@
+
+
+
+     nnnneeeettttssssttttaaaarrrrtttt((((1111))))	       UUUUNNNNIIIIXXXX SSSSyyyysssstttteeeemmmm VVVV		   nnnneeeettttssssttttaaaarrrrtttt((((1111))))
+
+
+
+     NNNNAAAAMMMMEEEE
+	  netstart - predict translation start in nucleotide sequences
+
+     SSSSYYYYNNNNOOOOPPPPSSSSIIIISSSS
+	  nnnneeeettttssssttttaaaarrrrtttt [----aaaatttt|----vvvveeeerrrrtttt] [----hhhh] [_f_i_l_e ...]
+
+     DDDDEEEESSSSCCCCRRRRIIIIPPPPTTTTIIIIOOOONNNN
+	  nnnneeeettttssssttttaaaarrrrtttt predicts translation	start in nucleotide sequences
+	  from vertebrates or dicot plants (e.g. _A_r_a_b_i_d_o_p_s_i_s _t_h_a_l_i_a_n_a)
+	  using	a neural network approach. The method is described in
+	  detail in the	reference quoted below.
+
+	  Input	sequences are read from	_f_i_l_e_s or, if no	file is	given,
+	  from standard	input. The input format	is Pearson FFFFAAAASSSSTTTTAAAA by
+	  default.
+
+	  The default output is	text; it will go to _s_t_d_o_u_t. Each input
+	  sequence will	be shown with the predicted translation	start
+	  sites	highlighted, followed by a table showing the positions
+	  and the scores of all	the instances of AAAATTTTGGGG in	the sequence.
+	  The scores are always	in the interval	[0.0, 1.0]; when
+	  greater than 0000....5555 they	indicate a probable translation	start.
+
+     OOOOPPPPTTTTIIIIOOOONNNNSSSS
+	  ----aaaatttt  Use networks trained on Arabidopsis thaliana sequences.
+
+	  ----vvvveeeerrrrtttt
+	       Use networks trained on vertebrate sequences. This is
+	       the default.
+
+	  ----hhhh   Show the	allowed	command	line syntax.
+
+	  _f_i_l_e ...
+	       The input files to process. If not specified, _s_t_d_i_n
+	       will be used instead.
+
+     DDDDIIIIAAAAGGGGNNNNOOOOSSSSTTTTIIIICCCCSSSS
+	  Exit status is 0000 if no errors	have occurred and non-zero
+	  otherwise. In	the latter case	an explanatory diagnostic
+	  message will appear on _s_t_d_o_u_t.
+
+	  If the nnnneeeettttssssttttaaaarrrrtttt software is not configured correctly or
+	  corrupted the	error messages may be hard to interpret.
+
+     AAAAUUUUTTTTHHHHOOOORRRRSSSS
+	  Henrik Nielsen, hnielsen@cbs.dtu.dk, Nov 1997.
+	  Anders Gorm Pedersen,	gorm@cbs.dtu.dk, Nov 1997.
+	  Soeren Brunak, brunak@cbs.dtu.dk, Nov	1997.
+
+     RRRREEEEFFFFEEEERRRREEEENNNNCCCCEEEE
+	  Neural network prediction of translation initiation sites in
+	  eukaryotes:  perspectives for	EST and	genome analysis,
+
+
+
+     Page 1					    (printed 4/26/101)
+
+
+
+
+
+
+     nnnneeeettttssssttttaaaarrrrtttt((((1111))))	       UUUUNNNNIIIIXXXX SSSSyyyysssstttteeeemmmm VVVV		   nnnneeeettttssssttttaaaarrrrtttt((((1111))))
+
+
+
+	  A. G.	Pedersen and H.	Nielsen, ISMB 5, 226-233 1997.
+
+     FFFFIIIILLLLEEEESSSS
+	  /usr/local/bin/netstart
+	  /usr/local/sw/netstart-1.0	     software home
+
+     SSSSEEEEEEEE AAAALLLLSSSSOOOO
+	  ffffaaaassssttttaaaa,
+	  hhhhttttttttpppp::::////////wwwwwwwwwwww....ccccbbbbssss....ddddttttuuuu....ddddkkkk////sssseeeerrrrvvvviiiicccceeeessss////NNNNeeeettttSSSSttttaaaarrrrtttt////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Page 2					    (printed 4/26/101)
+
+
+

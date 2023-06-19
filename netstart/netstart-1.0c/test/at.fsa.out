@@ -1,0 +1,54 @@
+
+Translation start predictions for 3 dicot plant sequences
+
+
+  Name: AT2A6.1
+CACGCGTCCGAAGCAAGATGGAGTCAAGTGATCGTTCAAGTCAAGCAAAAGCTTTCGACGAGACAAAAACCGGCGTGAAA
+GGGCTTGTGGCTTCGGGAATCAAAGAGATTCCAGCCATGTTCCATACACCTCCGGATACTCTAACAAGCCTGAAACAAAC
+AGCACCA
+.................i..............................................................
+....................................N...........................................
+.......
+
+   Pos    Score     Pred
+------------------------
+    18    0.821     Yes
+   117    0.034     -
+
+
+  Name: AT2SALBGA.2
+ATGCAATGTCTTAAAAAAAAAAAATTGTGCATGCATTCTAACACGTGATCTCCATGCAAAACTCCTTTCTTGTCCATAAA
+TACCCATAACCCCTTCACTACACTCTTCACTCAAACAAAAAACATACACAAGTAATTAACTAACAACAAATGGCGAACAA
+GCTCTTCCTCGTCTGCGCAGCTCTCGCCCTGTGTTTCATCCTCACCAACGCTTCCGTCTATCGCACCGTTGTCGAGTTCG
+ACGAAGATGACGCCAGTAACCCCATAGGCCCAATACAGAAATGTCAGAAGGAGTTTCAG
+N....N........................i......................N..........................
+.....................................................................i..........
+................................................................................
+......N.................................N..................
+
+   Pos    Score     Pred
+------------------------
+     1    0.233     -
+     6    0.482     -
+    31    0.623     Yes
+    54    0.275     -
+   150    0.903     Yes
+   247    0.117     -
+   281    0.140     -
+
+
+  Name: AT40SRS15.1
+CAACGACAGTTATCAAAGCTTAAGCCGTTTTAGGGTTTTATCCTTTTGGTGAGATCCAATCATGGGGGATGTTGAACCAG
+AGGTTGCCGCTGCTGGAGTTCCCAAGAAGAGGACGTTTAAGAAGTTTGCCTTCAAAGGAGTTGATCTCGATGCTCTTCTC
+GATATGTCTACTGATGATCTTGTCAAGCTCTTCTCTTCTCGTATTCGAAGA
+.............................................................i......N...........
+.....................................................................N..........
+...N.........N.....................................
+
+   Pos    Score     Pred
+------------------------
+    62    0.909     Yes
+    69    0.147     -
+   150    0.045     -
+   164    0.070     -
+   174    0.046     -

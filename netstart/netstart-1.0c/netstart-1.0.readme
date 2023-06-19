@@ -1,0 +1,95 @@
+
+
+   NetStart 1.0c	INSTALLATION INSTRUCTIONS
+
+
+   DESCRIPTION
+
+   NetStart   predicts   translation   start  in  nucleotide  sequences  from
+   vertebrates and  dicot plants  (e.g. Arabidopsis thaliana)  using a neural
+   network  approach.  The method is  described  in detail  in  the following
+   article:
+
+   Neural network prediction  of translation initiation  sites in eukaryotes:
+   perspectives for EST and genome analysis. A. G. Pedersen  and  H. Nielsen,
+   ISMB 5, 226-233 1997.
+
+
+   DOWNLOAD
+
+   The NetStart 1.0 package is a  property of  Center for Biological Sequence
+   Analysis.  It may be downloaded  only  by special agreement.  For academic
+   users there is a download site at:
+
+        http://www.cbs.dtu.dk/cgi-bin/nph-sw_request?netstart
+
+   Other users are requested to contact software@cbs.dtu.dk.
+
+
+   PRE-INSTALLATION
+
+   NetStart 1.0 will run on the most common UNIX platforms e.g.  Linux, SunOS
+   etc. The package consists of two files:
+  
+       netstart-1.0.readme          this file
+       netstart-1.0.<unix>.tar.Z    compressed TAR archive
+
+   where 'unix' is the UNIX platform on which you are about to install. After
+   installation NetStart will occupy around 1.8 Mb of disk space.
+
+
+   INSTALLATION
+
+   1. Uncompress and untar the package:
+
+      cat netstart-1.0c.tar.Z | uncompress | tar xvf -
+
+   This will produce a directory 'netstart-1.0c'.
+
+   2. In 'netstart-1.0c' locate and edit  the main script 'netstart'.  In the
+   beginning of the script the following variables should be configured:
+
+      NSHOME	full path to the netstart-1.0c directory (mandatory)
+      AWK	      "      awk/nawk/gawk executable
+      ECHO	      "      'echo' executable
+
+   The shell built-in echo command should be avoided as its behaviour differs
+   from platform to platform.
+
+   3. Make sure that the 'tmp' directory has the sticky bit set.  The listing
+   should read "drwxrwxrwt ...". If the sticky bit is not set, set it:
+
+      chmod 1777 tmp
+
+   4. Test the package:
+
+      ./netstart -at test/at.fsa
+
+   Compare  the output  to  the contents of the file 'test/at.fsa.out'.  They
+   should be identical. If there is only one line of output:
+   
+      Translation start predictions for ...
+
+   increase the swap space on the machine and test again.
+
+   5. Install  the executable and  the manpage using  the provided  makefile.
+   Edit the BINDIR and MANDIR variables to taste and type:
+   
+      make install
+      make install.man
+
+   If you need compiled manpages  you should choose 'installc.man' instead of
+   'install.man'.
+
+
+   PROBLEMS
+
+   Contact packages@cbs.dtu.dk in case of problems.
+   
+   Questions on scientific aspects of the NetStart method  should be sent to:
+
+      Anders Gorm Pedersen, gorm@cbs.dtu.dk
+      Soeren Brunak, brunak@cbs.dtu.dk
+
+   CBS, 5 Mar 2007
+   K. Rapacki

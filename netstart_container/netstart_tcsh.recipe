@@ -1,0 +1,29 @@
+Bootstrap: docker
+From: ubuntu:focal-20221130
+IncludeCmd: yes
+
+%environment
+
+%labels
+
+%files
+    /mnt/NGS_tmp/netstart-1.0c /opt
+
+%post
+    sed -i 's:archive.ubuntu.com:fr.archive.ubuntu.com:gi' /etc/apt/sources.list
+    
+    export DEBIAN_FRONTEND=noninteractive
+    
+    # Mise à jour d'Ubuntu et installation des paquets nécessaires
+    apt-get update
+	PACKAGES="tcsh"
+    TMP_PACKAGES=""
+    apt-get install -y ${PACKAGES} ${TMP_PACKAGES}
+    
+    chmod -R 755 /opt/netstart-1.0c
+
+%apprun netstart
+    exec /usr/bin/tcsh /opt/netstart-1.0c/netstart "$@"
+
+%runscript
+    /usr/bin/tcsh /opt/netstart-1.0c/netstart "$@"

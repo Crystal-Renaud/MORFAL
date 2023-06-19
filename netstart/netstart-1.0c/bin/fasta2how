@@ -1,0 +1,52 @@
+#! /usr/freeware/bin/gawk -f
+
+# netstart-1.0c/bin/fasta2how - customized for NetStart v. 1.0c
+# 
+# This script converts fasta to how and:
+# 
+# 	* gives names to nameless sequences;
+# 	* replaces non-nucleotide sequence symbols with 'X':s;
+#       * dashes out all symbols except initial 'A':s in ATG/AUG
+# 
+# VERSION:      23 May 2003, K. Rapacki
+# 
+
+# header line =================================================================
+/^>/ {	if (seq!="")			# write previous sequence, if any
+	   createhow();
+	seq="";				# reset seq
+
+	ec++;				# new sequence: increment count
+	name = substr($1,2);		# pick up name
+	if ( name=="")			# if nameless, generate name
+	   name = ("seq." ec);
+	next;
+}
+
+# sequence line ===============================================================
+{	seqn = toupper($0);
+	gsub("[^A-Za-z]","",seqn);	# remove non-letters
+	gsub("[^ACGTU]","X",seqn);	# convert non-nucleotide symbols to 'X'
+	seq = (seq seqn); }
+
+END {	if (seq!="")
+	   createhow();
+}
+
+# =============================================================================
+
+function createhow()
+{
+  len = length(seq);			# pick length
+  
+  ass = seq;				# create assignment
+  gsub("ATG",".--",ass);
+  gsub("AUG",".--",ass);
+  gsub("[^\.]","-",ass);
+
+  printf("%6d %-20s\n",len,name);	# print emerging HOW entry
+  for (i=1;length(substr(seq,i)); i=i+80)
+      printf("%-80s%7d\n",substr(seq,i,80),i+79);
+  for (i=1;length(substr(ass,i)); i=i+80)
+      printf("%-80s%7d\n",substr(ass,i,80),i+79);
+}
