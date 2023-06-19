@@ -1,0 +1,31 @@
+Bootstrap: docker
+From: ensemblorg/ensembl-vep:release_109.3
+IncludeCmd: yes
+
+%environment
+
+%labels
+
+%post
+	export DEBIAN_FRONTEND=noninteractive
+	
+    sed -i 's:archive.ubuntu.com:fr.archive.ubuntu.com:gi' /etc/apt/sources.list
+	
+    # Mise à jour d'Ubuntu et installation des paquets nécessaires
+#    apt-get update
+#	 PACKAGES=""
+#    TMP_PACKAGES=""
+#    apt-get install -y ${PACKAGES} ${TMP_PACKAGES}
+
+    # Cleaning
+    rm -Rf /opt/*.tar.*
+	apt-get remove -y --purge ${TMP_PACKAGES}
+    apt-get autoremove -y
+    apt-get clean
+    rm -rf /var/lib/apt/lists/*
+        
+%apprun vep
+    exec /opt/vep/src/ensembl-vep/vep "$@"
+
+%runscript
+    /opt/vep/src/ensembl-vep/vep "$@"
