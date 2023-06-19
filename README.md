@@ -2,10 +2,10 @@
 MORFAL is a pipeline build for the prediction of TIS and annotation of uORF (upstream open reading frame). 
 
 ## Requirements
-- Samtools (tested on version 1.14)
-- Netstart (tested on version 1.0c)
+- Samtools (tested on version 1.14) with hg19 fasta file
+- Netstart (tested on version 1.0c) in singularity container
 - VEP (tested on release-109.3)
-- UTRannotator <https://github.com/ImperialCardioGenetics/UTRannotator>
+- UTRannotator (<https://github.com/ImperialCardioGenetics/UTRannotator>) in singularity conntainer
 
 ## Usage
 
@@ -16,6 +16,9 @@ Option:
 -gtf,    --gtf  TEXT      /Path/to/gtf file
 -vcf,    --vcf  TEXT      /Path/to/vcf files
 -O,      --outdir  TEXT    /Path/to/output directory
+-hg,     --hg19fasta  TEXT      /Path/to/hg19 fasta file
+-net,    --netstart_container  TEXT      /Path/to/netstart singularity container
+-UTR,    --UTRannotator  TEXT      /Path/to/UTRannotator singularity container
 ```
 
 ## Annotation Output
