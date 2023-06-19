@@ -15,9 +15,9 @@ def get_arguments():
                         help='/path/to/vcf')
     parser.add_argument('-O', '--outdir', dest='outdir', type=str,
                         help='/path/to/output directory')
-    parser.add_argument('-s', '--hg19fasta', dest='hg19fasta', type=str,
+    parser.add_argument('-hg', '--hg19fasta', dest='hg19fasta', type=str,
                         help='/path/to/hg19 fasta')
-    parser.add_argument('-net', '--netstart container', dest='netstart_container', type=str,
+    parser.add_argument('-net', '--netstart_container', dest='netstart_container', type=str,
                         help='/path/to/netstart container')
     parser.add_argument('-UTR', '--UTRannotator', dest='UTRannotator', type=str,
                         help='/path/to/UTRannotator')
