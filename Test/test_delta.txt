@@ -1,0 +1,78 @@
+ID des transcrits var	pos	delta(score WT ou new)
+ubfZrnCjHJdDHBB	402	site physio 0.748
+ubfZrnCjHJdDHBB	259	new (0.687)
+QAVaSOinQaOOOoq	282	site physio 0.748
+QAVaSOinQaOOOoq	139	new (0.687)
+mRPKujlPoDfPHRa	402	site physio 0.748
+mRPKujlPoDfPHRa	274	new (0.744)
+NQQhBRtlVGDjTxr	282	site physio 0.748
+NQQhBRtlVGDjTxr	154	new (0.744)
+NezIfdHdhUusfxf	402	site physio 0.748
+NezIfdHdhUusfxf	402	-0.936% (0.748)
+NezIfdHdhUusfxf	322	new (0.632)
+ZPJFWIkbJkdeWsF	282	site physio 0.748
+ZPJFWIkbJkdeWsF	282	-0.936% (0.748)
+ZPJFWIkbJkdeWsF	202	new (0.632)
+CRWCspwPUmpuUWM	402	site physio 0.748
+CRWCspwPUmpuUWM	402	-0.134% (0.748)
+CRWCspwPUmpuUWM	334	new (0.481)
+mcmwqIHgZTEWzpb	282	site physio 0.748
+mcmwqIHgZTEWzpb	282	-0.134% (0.748)
+mcmwqIHgZTEWzpb	214	new (0.481)
+BmEqgChxclLJssU	402	site physio 0.748
+BmEqgChxclLJssU	402	-1.203% (0.748)
+BmEqgChxclLJssU	391	new (0.418)
+qPXlKEQKoojXmSQ	282	site physio 0.748
+qPXlKEQKoojXmSQ	282	-1.203% (0.748)
+qPXlKEQKoojXmSQ	271	new (0.418)
+MOgHIuKOpMPhWpl	402	site physio 0.748
+MOgHIuKOpMPhWpl	402	-1.07% (0.748)
+MOgHIuKOpMPhWpl	393	new (0.64)
+GbcTPFyCijuBPTl	282	site physio 0.748
+GbcTPFyCijuBPTl	282	-1.07% (0.748)
+GbcTPFyCijuBPTl	273	new (0.64)
+YNiXDpuUMuToBVF	500	site physio 0.521
+YNiXDpuUMuToBVF	431	-1.167% (0.514)
+YNiXDpuUMuToBVF	441	-0.532% (0.188)
+YNiXDpuUMuToBVF	500	1.919% (0.521)
+YNiXDpuUMuToBVF	504	-1.303% (0.307)
+YNiXDpuUMuToBVF	405	new (0.336)
+gpRQcqhxhYnWnKp	469	site physio 0.521
+gpRQcqhxhYnWnKp	400	-1.167% (0.514)
+gpRQcqhxhYnWnKp	410	-0.532% (0.188)
+gpRQcqhxhYnWnKp	469	1.919% (0.521)
+gpRQcqhxhYnWnKp	473	-1.303% (0.307)
+gpRQcqhxhYnWnKp	374	new (0.336)
+UsGgaWiioJAMRKD	272	site physio 0.757
+UsGgaWiioJAMRKD	272	1.321% (0.757)
+UsGgaWiioJAMRKD	296	0.26% (0.769)
+UsGgaWiioJAMRKD	237	new (0.479)
+aLTTlDLxeSqAxur	40	site physio 0.741
+aLTTlDLxeSqAxur	40	1.215% (0.741)
+aLTTlDLxeSqAxur	64	0.398% (0.754)
+aLTTlDLxeSqAxur	5	new (0.211)
+JcWqiIsdIHdSeKQ	213	site physio 0.757
+JcWqiIsdIHdSeKQ	213	1.321% (0.757)
+JcWqiIsdIHdSeKQ	237	0.26% (0.769)
+JcWqiIsdIHdSeKQ	178	new (0.479)
+HjiTjuOnjWyrbUA	224	site physio 0.784
+HjiTjuOnjWyrbUA	224	abolition (0.784)
+HjiTjuOnjWyrbUA	299	-0.654% (0.765)
+JaPLiIqKLYWvaNY	63	site physio 0.8
+JaPLiIqKLYWvaNY	63	abolition (0.8)
+JaPLiIqKLYWvaNY	138	-0.654% (0.765)
+PVFMlNuhjFHZhdi	217	site physio 0.809
+PVFMlNuhjFHZhdi	217	abolition (0.809)
+PVFMlNuhjFHZhdi	305	6.522% (0.138)
+XhBjLasIYeXEQDM	33	site physio 0.842
+XhBjLasIYeXEQDM	33	abolition (0.842)
+XhBjLasIYeXEQDM	121	5.738% (0.244)
+MnFzSwHNUWRWJVu	25	site physio 0.825
+MnFzSwHNUWRWJVu	25	abolition (0.825)
+MnFzSwHNUWRWJVu	113	6.522% (0.276)
+biwjjSFnSFiVekm	16	site physio 0.788
+biwjjSFnSFiVekm	16	abolition (0.788)
+biwjjSFnSFiVekm	104	4.082% (0.098)
+DlLyPjtLsuzbeZF	15	site physio 0.788
+DlLyPjtLsuzbeZF	15	abolition (0.788)
+DlLyPjtLsuzbeZF	103	5.738% (0.244)

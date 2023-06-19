@@ -1,0 +1,13 @@
+##VCF_controle
+##contient variant de la biblio de Rouen et Bordeaux
+#CHROM	POS	ID	REF	ALT	INFO
+chr9	130616776	.	T	A	.
+chr9	130616761	.	G	A	.
+chr9	130616713	.	G	A	.
+chr9	130616702	.	C	T	.
+chr9	130616644	.	G	A	.
+chr9	130616643	.	C	T	.
+chr5	36877266	.	C	T	.
+chr9	21974860	.	C	A	.
+chr2	47630331	.	A	G	.
+chr3	37035039	.	A	G	.
