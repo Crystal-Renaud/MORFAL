@@ -5,7 +5,7 @@ MORFAL is a pipeline build for the prediction of TIS and annotation of uORF (ups
 - Samtools (tested on version 1.14)
 - Netstart (tested on version 1.0c)
 - VEP (tested on release-109.3)
-- UTRannotator 
+- UTRannotator <https://github.com/ImperialCardioGenetics/UTRannotator>
 
 ## Usage
 
