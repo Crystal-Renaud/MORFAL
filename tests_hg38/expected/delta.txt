@@ -1,0 +1,422 @@
+ID des transcrits var	pos	delta(score WT ou new)
+B_^<mRd&G6O2f~0	212	canonical TIS 0.505
+B_^<mRd&G6O2f~0	212	9.505% (0.505)
+u$l=$n]g1m|NNq&	212	canonical TIS 0.505
+u$l=$n]g1m|NNq&	212	9.505% (0.505)
+Lr@FE:uY)5d"asl	568	canonical TIS 0.746
+Lr@FE:uY)5d"asl	203	9.108% (0.527)
+7vF+7'5y{GjBY4i	200	canonical TIS 0.505
+7vF+7'5y{GjBY4i	200	9.505% (0.505)
+7:b;W?CUx/F~YJ8	200	canonical TIS 0.505
+7:b;W?CUx/F~YJ8	200	9.505% (0.505)
+q6t.cf,{q>'R-8P	200	canonical TIS 0.505
+q6t.cf,{q>'R-8P	200	9.505% (0.505)
+#cY&-IR/T:yu8D'	200	canonical TIS 0.505
+#cY&-IR/T:yu8D'	200	9.505% (0.505)
+vyWWv%gcSD)zVXt	200	canonical TIS 0.505
+vyWWv%gcSD)zVXt	200	9.505% (0.505)
+@pGh/o}'G:U,<|P	200	canonical TIS 0.505
+@pGh/o}'G:U,<|P	200	9.505% (0.505)
+_I(]#{5x(#eJ"~-	200	canonical TIS 0.505
+_I(]#{5x(#eJ"~-	200	9.505% (0.505)
+O~0&0w[{o_(L_}_	200	canonical TIS 0.505
+O~0&0w[{o_(L_}_	200	9.505% (0.505)
+Sjl8oE.w[5bpa-8	123	canonical TIS 0.505
+Sjl8oE.w[5bpa-8	123	9.505% (0.505)
+}:%QOfoU5#X}>j7	100	canonical TIS 0.407
+}:%QOfoU5#X}>j7	100	-2.703% (0.407)
+}:%QOfoU5#X}>j7	85	new (0.342)
+jrC1smYk=zI7Z7S	212	canonical TIS 0.505
+jrC1smYk=zI7Z7S	212	-2.574% (0.505)
+jrC1smYk=zI7Z7S	197	new (0.432)
+$~<FfLz>#0j>Qx"	212	canonical TIS 0.505
+$~<FfLz>#0j>Qx"	212	-2.574% (0.505)
+$~<FfLz>#0j>Qx"	197	new (0.432)
+*@wXe39r<6$!&!"	568	canonical TIS 0.746
+*@wXe39r<6$!&!"	203	-1.898% (0.527)
+*@wXe39r<6$!&!"	188	new (0.392)
+^KQ!ehOkth(E9Dw	200	canonical TIS 0.505
+^KQ!ehOkth(E9Dw	200	-2.574% (0.505)
+^KQ!ehOkth(E9Dw	185	new (0.432)
+MLP6T9]T%MnP"L0	200	canonical TIS 0.505
+MLP6T9]T%MnP"L0	200	-2.574% (0.505)
+MLP6T9]T%MnP"L0	185	new (0.432)
+1:2vlG"`57@Lp-0	200	canonical TIS 0.505
+1:2vlG"`57@Lp-0	200	-2.574% (0.505)
+1:2vlG"`57@Lp-0	185	new (0.432)
+fBa$~ba&"=+g1>_	200	canonical TIS 0.505
+fBa$~ba&"=+g1>_	200	-2.574% (0.505)
+fBa$~ba&"=+g1>_	185	new (0.432)
+Q0P*S6%}lju[APZ	200	canonical TIS 0.505
+Q0P*S6%}lju[APZ	200	-2.574% (0.505)
+Q0P*S6%}lju[APZ	185	new (0.432)
+vFlA{)0U;0xS,/8	200	canonical TIS 0.505
+vFlA{)0U;0xS,/8	200	-2.574% (0.505)
+vFlA{)0U;0xS,/8	185	new (0.432)
+aBu<lfTLVNNvPY/	200	canonical TIS 0.505
+aBu<lfTLVNNvPY/	200	-2.574% (0.505)
+aBu<lfTLVNNvPY/	185	new (0.432)
+4SDhxI1,CDl_(l%	200	canonical TIS 0.505
+4SDhxI1,CDl_(l%	200	-2.574% (0.505)
+4SDhxI1,CDl_(l%	185	new (0.432)
+q$AEUZ>WUA@`v&#	123	canonical TIS 0.505
+q$AEUZ>WUA@`v&#	123	-2.574% (0.505)
+q$AEUZ>WUA@`v&#	108	new (0.432)
+$"9"5g=~q%(j}]X	126	canonical TIS 0.516
+$"9"5g=~q%(j}]X	20	4.063% (0.32)
+$"9"5g=~q%(j}]X	126	-3.101% (0.516)
+$"9"5g=~q%(j}]X	111	new (0.412)
+:!TYWR~k!hFPElk	100	canonical TIS 0.407
+:!TYWR~k!hFPElk	100	abolition (0.407)
+LAH[Q^}H.wIeP0g	212	canonical TIS 0.505
+LAH[Q^}H.wIeP0g	212	abolition (0.505)
+xOkJQC%Qb;mvq4F	212	canonical TIS 0.505
+xOkJQC%Qb;mvq4F	212	abolition (0.505)
+$*Js!VCz$u}%SDG	568	canonical TIS 0.746
+$*Js!VCz$u}%SDG	203	abolition (0.527)
+yvKe,7#'i;Hr9oj	200	canonical TIS 0.505
+yvKe,7#'i;Hr9oj	200	abolition (0.505)
+Yo[/YW&n~FK<c`)	200	canonical TIS 0.505
+Yo[/YW&n~FK<c`)	200	abolition (0.505)
+5#9Zk"H:1d]iHs<	200	canonical TIS 0.505
+5#9Zk"H:1d]iHs<	200	abolition (0.505)
+!J,-Yq/iE3S_>*"	200	canonical TIS 0.505
+!J,-Yq/iE3S_>*"	200	abolition (0.505)
+qfIcI;3T]b6s3Ke	200	canonical TIS 0.505
+qfIcI;3T]b6s3Ke	200	abolition (0.505)
+Qv,KnY-4#p,}G9h	200	canonical TIS 0.505
+Qv,KnY-4#p,}G9h	200	abolition (0.505)
+WeA,iz_psHpK79-	200	canonical TIS 0.505
+WeA,iz_psHpK79-	200	abolition (0.505)
+GmWW@.VtWak@gyX	200	canonical TIS 0.505
+GmWW@.VtWak@gyX	200	abolition (0.505)
+'x,SpjVMfaPMqd5	123	canonical TIS 0.505
+'x,SpjVMfaPMqd5	123	abolition (0.505)
+.w01"vBfQzFQ"AE	126	canonical TIS 0.516
+.w01"vBfQzFQ"AE	126	abolition (0.516)
+B6Dyk4+pf_?9yfY	1	canonical TIS 0.183
+B6Dyk4+pf_?9yfY	1	abolition (0.183)
+JT<^KpXo2!m7o$T	160	canonical TIS 0.497
+JT<^KpXo2!m7o$T	137	5.405% (0.37)
+JT<^KpXo2!m7o$T	160	3.219% (0.497)
+JT<^KpXo2!m7o$T	197	1.156% (0.173)
+JT<^KpXo2!m7o$T	206	2.299% (0.174)
+JT<^KpXo2!m7o$T	211	abolition (0.504)
+`_K#7qwCbHmjMK.	103	canonical TIS 0.579
+`_K#7qwCbHmjMK.	103	1.727% (0.579)
+`_K#7qwCbHmjMK.	140	-1.408% (0.142)
+`_K#7qwCbHmjMK.	149	4.95% (0.101)
+`_K#7qwCbHmjMK.	154	abolition (0.335)
+`_K#7qwCbHmjMK.	244	2.655% (0.226)
+ry]$5vKg?fiXod?	114	canonical TIS 0.592
+ry]$5vKg?fiXod?	114	0.845% (0.592)
+ry]$5vKg?fiXod?	151	0.8% (0.125)
+ry]$5vKg?fiXod?	160	5.0% (0.12)
+ry]$5vKg?fiXod?	165	abolition (0.302)
+ry]$5vKg?fiXod?	255	2.655% (0.226)
+UCOA#gjZrK;{^o[	114	canonical TIS 0.592
+UCOA#gjZrK;{^o[	114	0.845% (0.592)
+UCOA#gjZrK;{^o[	151	0.8% (0.125)
+UCOA#gjZrK;{^o[	160	5.0% (0.12)
+UCOA#gjZrK;{^o[	165	abolition (0.302)
+UCOA#gjZrK;{^o[	255	2.655% (0.226)
+,H:KtgZrq%}:S')	114	canonical TIS 0.592
+,H:KtgZrq%}:S')	114	0.845% (0.592)
+,H:KtgZrq%}:S')	151	1.485% (0.202)
+,H:KtgZrq%}:S')	160	4.469% (0.179)
+,H:KtgZrq%}:S')	165	abolition (0.474)
+9.Ukm:LvjeZ%p/S	120	canonical TIS 0.592
+9.Ukm:LvjeZ%p/S	120	0.845% (0.592)
+9.Ukm:LvjeZ%p/S	157	0.8% (0.125)
+9.Ukm:LvjeZ%p/S	166	5.0% (0.12)
+9.Ukm:LvjeZ%p/S	171	abolition (0.302)
+9.Ukm:LvjeZ%p/S	261	2.655% (0.226)
+t=B2/7eW~H_7*m>	233	canonical TIS 0.218
+t=B2/7eW~H_7*m>	146	2.535% (0.434)
+t=B2/7eW~H_7*m>	183	0.488% (0.205)
+t=B2/7eW~H_7*m>	192	3.191% (0.094)
+t=B2/7eW~H_7*m>	197	abolition (0.371)
+t=B2/7eW~H_7*m>	233	2.752% (0.218)
+t=B2/7eW~H_7*m>	280	-2.5% (0.16)
+t=B2/7eW~H_7*m>	288	-3.106% (0.161)
+<e@ZQR2zkzyH]B}	194	canonical TIS 0.579
+<e@ZQR2zkzyH]B}	194	1.727% (0.579)
+<e@ZQR2zkzyH]B}	231	-1.408% (0.142)
+<e@ZQR2zkzyH]B}	240	4.95% (0.101)
+<e@ZQR2zkzyH]B}	245	abolition (0.335)
+<e@ZQR2zkzyH]B}	335	2.655% (0.226)
+GRr<>k4[E5[*9EM	233	canonical TIS 0.592
+GRr<>k4[E5[*9EM	233	0.845% (0.592)
+GRr<>k4[E5[*9EM	270	0.8% (0.125)
+GRr<>k4[E5[*9EM	279	5.0% (0.12)
+GRr<>k4[E5[*9EM	284	abolition (0.302)
+GRr<>k4[E5[*9EM	374	2.655% (0.226)
+U!zA@Dx_LNCs6ea	487	canonical TIS 0.263
+U!zA@Dx_LNCs6ea	227	2.157% (0.51)
+U!zA@Dx_LNCs6ea	264	1.887% (0.371)
+U!zA@Dx_LNCs6ea	273	4.762% (0.168)
+U!zA@Dx_LNCs6ea	278	abolition (0.54)
+<a9'ZZS<P%sl_Im	140	canonical TIS 0.61
+<a9'ZZS<P%sl_Im	140	1.639% (0.61)
+<a9'ZZS<P%sl_Im	186	4.31% (0.116)
+<a9'ZZS<P%sl_Im	191	abolition (0.352)
+<a9'ZZS<P%sl_Im	281	2.655% (0.226)
+'pv3~V*`Al_:E}g	110	canonical TIS 0.592
+'pv3~V*`Al_:E}g	110	0.845% (0.592)
+'pv3~V*`Al_:E}g	147	0.8% (0.125)
+'pv3~V*`Al_:E}g	156	5.0% (0.12)
+'pv3~V*`Al_:E}g	161	abolition (0.302)
+'pv3~V*`Al_:E}g	251	2.655% (0.226)
+27}RP>*8Vi]36Pw	182	canonical TIS 0.497
+27}RP>*8Vi]36Pw	159	5.405% (0.37)
+27}RP>*8Vi]36Pw	182	3.219% (0.497)
+27}RP>*8Vi]36Pw	228	3.39% (0.118)
+27}RP>*8Vi]36Pw	233	abolition (0.324)
+27}RP>*8Vi]36Pw	323	2.655% (0.226)
+mBTe=K@n#v|,Z+S	74	canonical TIS 0.487
+mBTe=K@n#v|,Z+S	74	1.848% (0.487)
+mBTe=K@n#v|,Z+S	111	0.901% (0.111)
+mBTe=K@n#v|,Z+S	120	3.704% (0.135)
+mBTe=K@n#v|,Z+S	125	abolition (0.314)
+mBTe=K@n#v|,Z+S	215	2.655% (0.226)
+NU-:McLFq{01%M;	648	canonical TIS 0.571
+NU-:McLFq{01%M;	648	1.926% (0.571)
+NU-:McLFq{01%M;	685	0.758% (0.132)
+NU-:McLFq{01%M;	694	3.65% (0.137)
+NU-:McLFq{01%M;	699	abolition (0.377)
+NU-:McLFq{01%M;	789	2.655% (0.226)
+bV=,D*YXzBIx@82	120	canonical TIS 0.592
+bV=,D*YXzBIx@82	120	0.845% (0.592)
+bV=,D*YXzBIx@82	157	0.8% (0.125)
+bV=,D*YXzBIx@82	166	5.0% (0.12)
+bV=,D*YXzBIx@82	171	abolition (0.302)
+bV=,D*YXzBIx@82	261	2.655% (0.226)
+0~5jQEp,?gI}@6!	406	canonical TIS 0.24
+0~5jQEp,?gI}@6!	120	0.903% (0.554)
+0~5jQEp,?gI}@6!	157	1.433% (0.349)
+0~5jQEp,?gI}@6!	166	3.211% (0.218)
+0~5jQEp,?gI}@6!	171	abolition (0.529)
+0~5jQEp,?gI}@6!	200	1.33% (0.376)
+0~5jQEp,?gI}@6!	244	-0.592% (0.676)
+:&5Y'.J+g:{~_G3	195	canonical TIS 0.579
+:&5Y'.J+g:{~_G3	195	1.727% (0.579)
+:&5Y'.J+g:{~_G3	232	-1.408% (0.142)
+:&5Y'.J+g:{~_G3	241	4.95% (0.101)
+:&5Y'.J+g:{~_G3	246	abolition (0.335)
+:&5Y'.J+g:{~_G3	336	2.655% (0.226)
+/!t[s*%X%/]ttdt	114	canonical TIS 0.592
+/!t[s*%X%/]ttdt	114	0.845% (0.592)
+/!t[s*%X%/]ttdt	151	0.8% (0.125)
+/!t[s*%X%/]ttdt	160	5.0% (0.12)
+/!t[s*%X%/]ttdt	165	abolition (0.302)
+/!t[s*%X%/]ttdt	255	2.655% (0.226)
+E&N4KKn?!)_c&^:	93	canonical TIS 0.579
+E&N4KKn?!)_c&^:	93	1.209% (0.579)
+E&N4KKn?!)_c&^:	130	0.8% (0.125)
+E&N4KKn?!)_c&^:	139	5.0% (0.12)
+E&N4KKn?!)_c&^:	144	abolition (0.302)
+E&N4KKn?!)_c&^:	234	2.655% (0.226)
+-}h>LXy@erh!GYX	233	canonical TIS 0.218
+-}h>LXy@erh!GYX	146	2.535% (0.434)
+-}h>LXy@erh!GYX	183	0.488% (0.205)
+-}h>LXy@erh!GYX	192	3.191% (0.094)
+-}h>LXy@erh!GYX	197	abolition (0.371)
+-}h>LXy@erh!GYX	233	2.752% (0.218)
+-}h>LXy@erh!GYX	280	-2.5% (0.16)
+-}h>LXy@erh!GYX	288	-3.106% (0.161)
+^G3!TF.^=#9S/gL	127	canonical TIS 0.497
+^G3!TF.^=#9S/gL	104	5.405% (0.37)
+^G3!TF.^=#9S/gL	127	3.219% (0.497)
+^G3!TF.^=#9S/gL	173	3.39% (0.118)
+^G3!TF.^=#9S/gL	178	abolition (0.324)
+^G3!TF.^=#9S/gL	268	1.657% (0.181)
+w<@an$A7G~^)OQ-	100	canonical TIS 0.58
+w<@an$A7G~^)OQ-	100	1.552% (0.58)
+w<@an$A7G~^)OQ-	137	-1.408% (0.142)
+w<@an$A7G~^)OQ-	146	4.95% (0.101)
+w<@an$A7G~^)OQ-	151	abolition (0.335)
+w<@an$A7G~^)OQ-	241	2.655% (0.226)
+}o0kk~##>Ep#lc9	93	canonical TIS 0.579
+}o0kk~##>Ep#lc9	93	1.209% (0.579)
+}o0kk~##>Ep#lc9	130	1.485% (0.202)
+}o0kk~##>Ep#lc9	139	4.469% (0.179)
+}o0kk~##>Ep#lc9	144	abolition (0.474)
+.}RBOs[lV.UR,'h	93	canonical TIS 0.579
+.}RBOs[lV.UR,'h	93	1.209% (0.579)
+.}RBOs[lV.UR,'h	130	0.671% (0.149)
+.}RBOs[lV.UR,'h	139	4.651% (0.086)
+.}RBOs[lV.UR,'h	144	abolition (0.276)
+1n`EzBgF!jhq8Tr	50	canonical TIS 0.532
+1n`EzBgF!jhq8Tr	50	2.444% (0.532)
+1n`EzBgF!jhq8Tr	87	-0.763% (0.131)
+1n`EzBgF!jhq8Tr	96	5.263% (0.095)
+1n`EzBgF!jhq8Tr	101	abolition (0.262)
+.v(qs:@A~J8?:k$	87	canonical TIS 0.582
+.v(qs:@A~J8?:k$	87	1.546% (0.582)
+.v(qs:@A~J8?:k$	124	-0.424% (0.236)
+.v(qs:@A~J8?:k$	133	4.065% (0.123)
+.v(qs:@A~J8?:k$	138	abolition (0.379)
+8gDOr}z7Bnw6wWN	114	canonical TIS 0.579
+8gDOr}z7Bnw6wWN	114	1.727% (0.579)
+8gDOr}z7Bnw6wWN	151	-1.408% (0.142)
+8gDOr}z7Bnw6wWN	160	4.95% (0.101)
+8gDOr}z7Bnw6wWN	165	abolition (0.335)
+8gDOr}z7Bnw6wWN	255	1.657% (0.181)
+*u@*EcCpixH8irw	160	canonical TIS 0.497
+*u@*EcCpixH8irw	90	-0.913% (0.219)
+*u@*EcCpixH8irw	137	3.243% (0.37)
+*u@*EcCpixH8irw	160	abolition (0.497)
+*u@*EcCpixH8irw	197	1.734% (0.173)
+*u@*EcCpixH8irw	206	-1.149% (0.174)
+*u@*EcCpixH8irw	211	4.365% (0.504)
+#Z"-1ZfK&TtWv|3	103	canonical TIS 0.579
+#Z"-1ZfK&TtWv|3	103	abolition (0.579)
+#Z"-1ZfK&TtWv|3	140	0.704% (0.142)
+#Z"-1ZfK&TtWv|3	149	-1.98% (0.101)
+#Z"-1ZfK&TtWv|3	154	5.075% (0.335)
+>RPJm=As;5b7og?	114	canonical TIS 0.592
+>RPJm=As;5b7og?	114	abolition (0.592)
+>RPJm=As;5b7og?	160	-1.667% (0.12)
+>RPJm=As;5b7og?	165	5.629% (0.302)
+;MWn}{@0(,*Pl(d	114	canonical TIS 0.592
+;MWn}{@0(,*Pl(d	114	abolition (0.592)
+;MWn}{@0(,*Pl(d	160	-1.667% (0.12)
+;MWn}{@0(,*Pl(d	165	5.629% (0.302)
+hG+yhpDv$/+b(qO	114	canonical TIS 0.592
+hG+yhpDv$/+b(qO	114	abolition (0.592)
+hG+yhpDv$/+b(qO	151	0.495% (0.202)
+hG+yhpDv$/+b(qO	160	-1.676% (0.179)
+hG+yhpDv$/+b(qO	165	4.641% (0.474)
+_,}}m^AcV,kW(m?	120	canonical TIS 0.592
+_,}}m^AcV,kW(m?	120	abolition (0.592)
+_,}}m^AcV,kW(m?	166	-1.667% (0.12)
+_,}}m^AcV,kW(m?	171	5.629% (0.302)
+M%d.}%@%4,~CkNA	233	canonical TIS 0.218
+M%d.}%@%4,~CkNA	146	abolition (0.434)
+M%d.}%@%4,~CkNA	183	1.951% (0.205)
+M%d.}%@%4,~CkNA	197	4.852% (0.371)
+M%d.}%@%4,~CkNA	233	1.835% (0.218)
+tut|prf&|*Vv-%%	194	canonical TIS 0.579
+tut|prf&|*Vv-%%	194	abolition (0.579)
+tut|prf&|*Vv-%%	231	0.704% (0.142)
+tut|prf&|*Vv-%%	240	-1.98% (0.101)
+tut|prf&|*Vv-%%	245	5.075% (0.335)
+^IvhQRa.olnA%)F	233	canonical TIS 0.592
+^IvhQRa.olnA%)F	233	abolition (0.592)
+^IvhQRa.olnA%)F	279	-1.667% (0.12)
+^IvhQRa.olnA%)F	284	5.629% (0.302)
+^ov2F20$G;u{sht	487	canonical TIS 0.263
+^ov2F20$G;u{sht	227	abolition (0.51)
+^ov2F20$G;u{sht	264	0.27% (0.371)
+^ov2F20$G;u{sht	273	-0.595% (0.168)
+^ov2F20$G;u{sht	278	2.963% (0.54)
+%vPY3@W;F1OcZ:m	140	canonical TIS 0.61
+%vPY3@W;F1OcZ:m	140	abolition (0.61)
+%vPY3@W;F1OcZ:m	177	0.8% (0.125)
+%vPY3@W;F1OcZ:m	186	-0.862% (0.116)
+%vPY3@W;F1OcZ:m	191	5.114% (0.352)
+/BraJsnuK=?P/s(	110	canonical TIS 0.592
+/BraJsnuK=?P/s(	110	abolition (0.592)
+/BraJsnuK=?P/s(	156	-1.667% (0.12)
+/BraJsnuK=?P/s(	161	5.629% (0.302)
+=E&0Pn=#NQPl:lO	182	canonical TIS 0.497
+=E&0Pn=#NQPl:lO	112	-1.322% (0.227)
+=E&0Pn=#NQPl:lO	159	3.243% (0.37)
+=E&0Pn=#NQPl:lO	182	abolition (0.497)
+=E&0Pn=#NQPl:lO	219	1.739% (0.115)
+=E&0Pn=#NQPl:lO	228	-0.847% (0.118)
+=E&0Pn=#NQPl:lO	233	5.247% (0.324)
+_.w$De|qhmO>8:q	74	canonical TIS 0.487
+_.w$De|qhmO>8:q	74	abolition (0.487)
+_.w$De|qhmO>8:q	120	-1.481% (0.135)
+_.w$De|qhmO>8:q	125	6.688% (0.314)
+lb8[1A4z'nI<z}]	648	canonical TIS 0.571
+lb8[1A4z'nI<z}]	648	abolition (0.571)
+lb8[1A4z'nI<z}]	685	1.515% (0.132)
+lb8[1A4z'nI<z}]	694	-0.73% (0.137)
+lb8[1A4z'nI<z}]	699	5.04% (0.377)
+.}T?N^k(h=),iCp	120	canonical TIS 0.592
+.}T?N^k(h=),iCp	120	abolition (0.592)
+.}T?N^k(h=),iCp	166	-1.667% (0.12)
+.}T?N^k(h=),iCp	171	5.629% (0.302)
+zb90?%_J]Oxo`W9	406	canonical TIS 0.24
+zb90?%_J]Oxo`W9	120	abolition (0.554)
+zb90?%_J]Oxo`W9	157	0.573% (0.349)
+zb90?%_J]Oxo`W9	171	3.592% (0.529)
+zb90?%_J]Oxo`W9	200	1.33% (0.376)
+o]9`x<y_X0mM&8&	195	canonical TIS 0.579
+o]9`x<y_X0mM&8&	195	abolition (0.579)
+o]9`x<y_X0mM&8&	232	0.704% (0.142)
+o]9`x<y_X0mM&8&	241	-1.98% (0.101)
+o]9`x<y_X0mM&8&	246	5.075% (0.335)
+N=]2fa{z)=cTW(1	114	canonical TIS 0.592
+N=]2fa{z)=cTW(1	114	abolition (0.592)
+N=]2fa{z)=cTW(1	160	-1.667% (0.12)
+N=]2fa{z)=cTW(1	165	5.629% (0.302)
+hue6*1&3RX(fj3P	93	canonical TIS 0.579
+hue6*1&3RX(fj3P	93	abolition (0.579)
+hue6*1&3RX(fj3P	139	-1.667% (0.12)
+hue6*1&3RX(fj3P	144	5.629% (0.302)
+1XaPi`%{/&'N1&i	233	canonical TIS 0.218
+1XaPi`%{/&'N1&i	146	abolition (0.434)
+1XaPi`%{/&'N1&i	183	1.951% (0.205)
+1XaPi`%{/&'N1&i	197	4.852% (0.371)
+1XaPi`%{/&'N1&i	233	1.835% (0.218)
+0`ji?(1e/pbu`JD	127	canonical TIS 0.497
+0`ji?(1e/pbu`JD	57	-1.709% (0.234)
+0`ji?(1e/pbu`JD	104	3.243% (0.37)
+0`ji?(1e/pbu`JD	127	abolition (0.497)
+0`ji?(1e/pbu`JD	164	1.739% (0.115)
+0`ji?(1e/pbu`JD	173	-0.847% (0.118)
+0`ji?(1e/pbu`JD	178	5.247% (0.324)
+oDocMlC<a8Nbr$S	100	canonical TIS 0.58
+oDocMlC<a8Nbr$S	100	abolition (0.58)
+oDocMlC<a8Nbr$S	137	0.704% (0.142)
+oDocMlC<a8Nbr$S	146	-1.98% (0.101)
+oDocMlC<a8Nbr$S	151	5.075% (0.335)
+1W*#D_!s+^]1`0l	93	canonical TIS 0.579
+1W*#D_!s+^]1`0l	93	abolition (0.579)
+1W*#D_!s+^]1`0l	130	0.495% (0.202)
+1W*#D_!s+^]1`0l	139	-1.676% (0.179)
+1W*#D_!s+^]1`0l	144	4.641% (0.474)
+r?SYMbH[hMf)FC^	93	canonical TIS 0.579
+r?SYMbH[hMf)FC^	93	abolition (0.579)
+r?SYMbH[hMf)FC^	130	0.671% (0.149)
+r?SYMbH[hMf)FC^	139	-2.326% (0.086)
+r?SYMbH[hMf)FC^	144	5.435% (0.276)
+vlilh-;8PJg}EJ6	50	canonical TIS 0.532
+vlilh-;8PJg}EJ6	50	abolition (0.532)
+vlilh-;8PJg}EJ6	96	-3.158% (0.095)
+vlilh-;8PJg}EJ6	101	5.344% (0.262)
+ARGa4dl<mR#`E{,	87	canonical TIS 0.582
+ARGa4dl<mR#`E{,	87	abolition (0.582)
+ARGa4dl<mR#`E{,	124	1.695% (0.236)
+ARGa4dl<mR#`E{,	133	-2.439% (0.123)
+ARGa4dl<mR#`E{,	138	5.013% (0.379)
+a$Z!(gj4JSCz`yA	114	canonical TIS 0.579
+a$Z!(gj4JSCz`yA	114	abolition (0.579)
+a$Z!(gj4JSCz`yA	151	0.704% (0.142)
+a$Z!(gj4JSCz`yA	160	-1.98% (0.101)
+a$Z!(gj4JSCz`yA	165	5.075% (0.335)
+q<f-f-c.^Kn!u8A	103	canonical TIS 0.579
+q<f-f-c.^Kn!u8A	103	1.209% (0.579)
+_H+tt94uKdzyIuB	114	canonical TIS 0.592
+m6UZO#r|m,|nuOF	114	canonical TIS 0.592
+'-2Fgz%iRM}ez|O	114	canonical TIS 0.592
+6Y=ZS<}es[p"y#*	120	canonical TIS 0.592
+*5_I/RG;d{VZGL8	233	canonical TIS 0.218
+S[rD%NHmwb@cY.|	194	canonical TIS 0.579
+S[rD%NHmwb@cY.|	194	1.209% (0.579)
+R<7:7?)^rTj#EI!	233	canonical TIS 0.592
+N7&9U]K-nGf3$da	487	canonical TIS 0.263
+N7&9U]K-nGf3$da	227	0.392% (0.51)
+ne/aJX*dR}UpN?+	110	canonical TIS 0.592
+w5R[mNb$4BEn}/t	648	canonical TIS 0.571
+L^I#$]y-<%FaX#E	120	canonical TIS 0.592
+@'oXo#R&=:6Xa[>	406	canonical TIS 0.24
+`iv6G*fC*f4J.Pt	195	canonical TIS 0.579
+`iv6G*fC*f4J.Pt	195	1.209% (0.579)
+i|PE&K;KBd'y#EW	114	canonical TIS 0.592
++6V&abyjZ5FccE8	233	canonical TIS 0.218
+y06Kfd(e)5*&kv3	114	canonical TIS 0.579
+y06Kfd(e)5*&kv3	114	1.209% (0.579)
