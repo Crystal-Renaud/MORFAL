@@ -1,5 +1,8 @@
 # MORFAL - Molecular Open Reading Frame AnaLyser
 
+<img src="MORFAL.png" alt="Logo MORFAL" width="300">
+
+------
 
 **MORFAL** is a Python-based command-line pipeline designed to analyze genetic variants located in the **5′ untranslated region (5′UTR)** and within **200 bp downstream of the canonical start codon (AUG)**. 
 
