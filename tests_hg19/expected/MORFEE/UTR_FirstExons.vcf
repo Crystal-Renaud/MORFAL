@@ -1,0 +1,7 @@
+#File containing the variants in 5' UTR and near the start codon
+chr13	32889756	.	GTTT	G
+chr13	32890585	.	A	G
+chr13	32890600	.	G	T
+chr17	41276061	.	A	G
+chr17	41276112	.	A	G
+chr17	41277374	.	G	C
